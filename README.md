@@ -13,7 +13,7 @@ Day 2: https://colab.research.google.com/drive/18meufm888GRpm8QP11a0KhlmS7wkxrKt
 
 Day 3: https://colab.research.google.com/drive/1ymFSgvmnYgRSxiYFoQ7ULpYB8JtV_Een?usp=sharing
 
-Day 4:
+Day 4: https://colab.research.google.com/drive/1m4hop77A5QahQK-gU9eclRYOW02tqIS7?usp=sharing
 
 Day 5: 
 
